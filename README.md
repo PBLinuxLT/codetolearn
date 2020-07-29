@@ -1,2 +1,2 @@
-# CodeToLean Wordpress Blog
+# CodeToLearn Wordpress Blog
 by Paul Brown | www.codetolearn.co.uk
