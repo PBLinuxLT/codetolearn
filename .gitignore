@@ -1,0 +1,6 @@
+wp-data/
+config/
+.env
+docker-compose.yml
+export.sh
+LICENSE
