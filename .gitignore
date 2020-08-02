@@ -1,5 +1,6 @@
 wp-data/
 config/
+wp-app/wp-content/uploads/
 .env
 docker-compose.yml
 export.sh
